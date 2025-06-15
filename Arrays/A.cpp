@@ -1,3 +1,8 @@
+//Problem Name   : Summation 
+//Teacher’s Name : Mirza Raquib
+//Course Title   : Competitive programming sessional 
+//Course Code    : CCE-2310
+//Date           : 19.05.25
 #include<bits/stdc++.h>
 using namespace std;
 int main()
