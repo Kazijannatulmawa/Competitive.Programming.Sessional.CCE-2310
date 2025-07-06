@@ -1,3 +1,8 @@
+//Problem Name   : Numbers Histrogrum 
+//Teacher’s Name : Mirza Raquib
+//Course Title   : Competitive programming sessional 
+//Course Code    : CCE-2310
+//Date           : 08.05.25
 #include<bits/stdc++.h>
 using namespace std;
 int main()
