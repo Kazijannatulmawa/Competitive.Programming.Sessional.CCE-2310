@@ -1,3 +1,8 @@
+//Problem Name   : Max and Min
+//Teacher’s Name : Mirza Raquib
+//Course Title   : Competitive programming sessional
+//Course Code    : CCE-2310
+//Date           : 04.05.25
 #include <iostream>
 using namespace std;
 int main()
