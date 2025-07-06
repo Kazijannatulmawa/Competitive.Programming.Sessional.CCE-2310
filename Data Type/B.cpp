@@ -1,6 +1,10 @@
+//Problem Name   : Basic Data Types
+//Teacher’s Name : Mirza Raquib
+//Course Title   : Competitive programming sessional
+//Course Code    : CCE-2310
+//Date           : 24.02.25
 #include<bits/std++.h>
 using namespace std;
-
 int main()
 {
   int a;
